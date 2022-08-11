@@ -15,7 +15,7 @@ $ENDCMP
 $CMP TC2050-IDC
 D Header, Tagconnect, 2x5
 K connector
-F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf
 $ENDCMP
 #
 $CMP TC2050-IDC_Cortex-M
